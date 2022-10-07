@@ -29,10 +29,10 @@ class _HomeState extends State<Home> {
   getNews() async {
     NewsService news = NewsService();
     await news.getNews();
-
     articlesList = news.getArticles();
     print(articlesList[1].description);
-    isLoading = NewsService.isLoading;
+    isLoading = news.getLoading();
+    setState(() {});
   }
 
   @override

@@ -26,4 +26,8 @@ class NewsService {
   List<Article> getArticles() {
     return articleList;
   }
+
+  bool getLoading() {
+    return isLoading;
+  }
 }
