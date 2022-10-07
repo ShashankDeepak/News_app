@@ -23,6 +23,8 @@ class NewsService {
     }
   }
 
+  //returns article
+
   List<Article> getArticles() {
     return articleList;
   }

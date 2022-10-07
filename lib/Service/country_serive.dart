@@ -7,6 +7,7 @@ import '../Model/article_model.dart';
 import '../Service/news_service.dart';
 import "package:http/http.dart" as http;
 
+//Returns country news
 class CountryNewsService extends GetxController {
   var articleList = <Article>[];
   var isLoading = true;

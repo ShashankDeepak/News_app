@@ -26,6 +26,7 @@ class _HomeState extends State<Home> {
   bool isLoading = true;
   int countryListIndex = 0;
 
+//gets news
   getNews() async {
     NewsService news = NewsService();
     await news.getNews();
