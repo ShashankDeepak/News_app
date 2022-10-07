@@ -1,16 +1,11 @@
-# news_app
+# News App
 
-A new Flutter project.
+A simple news appplication in which you can sort the news based upon category and country
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/92669664/194650989-8afdd0af-88c2-4444-872a-39ae4061ead5.png)![image](https://user-images.githubusercontent.com/92669664/194651219-fb134717-3462-4c06-9380-e4ea4c268197.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
